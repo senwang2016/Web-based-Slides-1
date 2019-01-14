@@ -1,0 +1,6 @@
+echo "# Web-based-Slides-1" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/senwang2016/Web-based-Slides-1.git
+git push -u origin master
